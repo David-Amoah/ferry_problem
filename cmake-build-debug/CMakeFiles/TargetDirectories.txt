@@ -1,0 +1,3 @@
+C:/Users/unoda/CLionProjects/ferry_problem/cmake-build-debug/CMakeFiles/ferry_problem.dir
+C:/Users/unoda/CLionProjects/ferry_problem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/unoda/CLionProjects/ferry_problem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
