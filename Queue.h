@@ -9,4 +9,6 @@ typedef void* QUEUE;
 
 QUEUE queue_init_default(void);
 
+void queue_destroy(QUEUE* phQ);
+
 #endif //FERRY_PROBLEM_QUEUE_H
